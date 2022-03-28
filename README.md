@@ -1,4 +1,4 @@
-# Data Science Project
+# Wine Clustering Project (K-Means, PCA)
 
 Back when I was doing a consulting project about import wines, the origin country and the types of wines are important indicators of the price and quality of wines. So, when I browse the numerous datasets available on Kaggle, I came across this dataset about wines that immediately caught my attention.
 
